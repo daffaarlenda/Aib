@@ -25,4 +25,4 @@
   <h1 id="love">"aku suka purin"</h1>
   <img src="https://files.catbox.moe/zjc4o5.jpg" alt="gabisa" width="300" height="350">
 </body>
-</html
+</html>
